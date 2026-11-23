@@ -153,4 +153,3 @@ MSc Bioinformatics Student | Aspiring Data Analyst
 
 ---
 
-*This project was developed as part of my Python and backend development learning journey.*
