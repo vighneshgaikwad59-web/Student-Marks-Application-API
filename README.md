@@ -145,11 +145,4 @@ Through this project, I practiced:
 - Implement PUT and DELETE endpoints.
 - Add student registration functionality.
 
-## Author
-
-**Vighnesh Gaikwad**
-
-MSc Bioinformatics Student | Aspiring Data Analyst
-
----
 
